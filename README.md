@@ -6,6 +6,12 @@ Práctica enmarcada dentro de la asignatura Tipología y ciclo de vida de los da
 
 ## Ficheros
 
++ /src/OMIE.py: documento con la implementación de la clase OMIEdata para realizar el web scraping
++ /src/main.py: documento principal para lanzar la ejecución con las fechas (en formato YYYY-MM-DD)
++ /data/OMIE_20180601_20181020.csv: fichero csv con el dataset obtenido
++ /PR1_LombaoVazquez_Pablo.pdf: documento pdf con las respuestas de la Práctica
++ /Precio_horario.png: gráfica incluida en el documento pdf
+
 ## Recursos
 
 * Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
