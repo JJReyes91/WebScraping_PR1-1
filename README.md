@@ -12,6 +12,10 @@ Práctica enmarcada dentro de la asignatura Tipología y ciclo de vida de los da
 + /PR1_LombaoVazquez_Pablo.pdf: documento pdf con las respuestas de la Práctica
 + /Precio_horario.png: gráfica incluida en el documento pdf
 
+## Consideraciones
+
+El fichero tiene un **tiempo de ejecución muy alto** para fechas largas porque tiene programado un **retraso de 10 segundos entre request**, para cumplir con las condiciones especificadas en el robots.txt de omie.es. Por cada día se acceden a 3 variables distintas, cada una con un índice, por tanto, para n días, el script tarda de mínimo 30(n+1) segundos.
+
 ## Recursos
 
 * Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
